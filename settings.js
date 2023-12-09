@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.creator = 'RegaBruhh'// yourname
+global.MONGO_DB_URI = "mongodb+srv://parijalsaputra78:LllxnUyj4YsUstHcluster0.tfepgm7.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.ACTIVATION_TOKEN_SECRET = "tahuGoreng" //isi apa aja bebas
+global.your_email = "tahutempenih@gmail.com" //email
+global.email_password = "ogof svpd geba txko" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
